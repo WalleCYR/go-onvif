@@ -1,4 +1,4 @@
-module github.com/quocson95/go-onvif
+module github.com/WalleCYR/go-onvif
 
 go 1.13
 
